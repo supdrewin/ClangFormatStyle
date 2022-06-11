@@ -1,8 +1,8 @@
 # Custom clang-format 15 config by @supdrewin,
 # feels free to copy and share it. :)
 ---
-AlignAfterOpenBracket:                      BlockIndent
-AlignArrayOfStructures:                     Right
+AlignAfterOpenBracket:   BlockIndent
+AlignArrayOfStructures:  Right
 AlignConsecutiveAssignments:
   Enabled:           true
   AcrossEmptyLines:  false
