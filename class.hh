@@ -12,7 +12,7 @@ class People {
 		{
 		}
 
-		People ( People&& other )
+		People ( People &&other )
 		    : name ( other.name )
 		    , age ( other.age )
 		{

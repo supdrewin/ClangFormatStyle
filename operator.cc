@@ -1,4 +1,4 @@
-int main ( int, char** )
+int main ( int, char ** )
 {
 	auto aaaaaaaaaaaaaaaaaaaa           = 0b00000010,
 	     bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb = aaaaaaaaaaaaaaaaaaaa;

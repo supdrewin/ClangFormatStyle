@@ -1,6 +1,6 @@
 enum class Status { On, Off, _ };
 
-int main ( int, char** )
+int main ( int, char ** )
 {
 	Status status = Status::On;
 

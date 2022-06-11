@@ -7,7 +7,7 @@ bool   boolean = true;  // ...
 // ...
 string abc     = "abc";
 
-int main ( int, char** )
+int main ( int, char ** )
 {
 	char a = 'a';  // ----------
 	abc    += a;   // ----------

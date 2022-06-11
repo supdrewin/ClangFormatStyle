@@ -59,7 +59,7 @@ ColumnLimit:                     80
 CompactNamespaces:               false
 Cpp11BracedListStyle:            false
 DeriveLineEnding:                true
-DerivePointerAlignment:          true
+DerivePointerAlignment:          false
 DisableFormat:                   false
 EmptyLineAfterAccessModifier:    Always
 EmptyLineBeforeAccessModifier:   Always
@@ -125,5 +125,6 @@ SpacesInParentheses:     true
 SpacesInSquareBrackets:  false
 Standard:                c++03
 TabWidth:                8
+UseCRLF:                 true
 UseTab:                  AlignWithSpaces
 ...
