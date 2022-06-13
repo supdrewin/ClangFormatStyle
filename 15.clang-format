@@ -123,7 +123,7 @@ SpacesInLineCommentPrefix:
   Maximum:  -1
 SpacesInParentheses:     true
 SpacesInSquareBrackets:  false
-Standard:                c++03
+Standard:                c++17
 TabWidth:                8
 UseCRLF:                 true
 UseTab:                  AlignWithSpaces
